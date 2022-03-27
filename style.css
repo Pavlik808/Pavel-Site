@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-.header {
+.jopa {
     width: 100%;
     max-width: 1900px;
     margin: 0 auto;
@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* Intro */
-.intro {
+.peniz {
     width: 100%;
     height: 50vh;
     justify-content: center;
@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-.intro_inner {
+.jopa_4 {
     width: 100%;
     margin: auto;
    
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-.intro__title {
+.peniz__4 {
         font-size: 70px;
         font-weight: 400;
         justify-content:center;
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: auto;
 }
 
-.header__inner {
+.jopa__4 {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-.header__logo {
+.jopa__5 {
     
     font-size: 47px;
     line-height: 1.5;
@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-.slider {
+.popiz {
     display: flex;
      justify-content: space-between;
     margin: 0 auto;
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-.slider__item {
+.popiz__item {
     color: #fff;
     font-family: Open Sans;
     display: flex;
@@ -126,11 +126,11 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-.slider__item:hover {
+.popiz__item:hover {
     color: ffba00;
 }
 
-.body {
+.pipirka {
     width: 100%;
     height: 50vh;
     background: url("../img/16.jpg") center no-repeat;
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-#body__title {
+#pipirka__title {
     color: #ffba00;
     font-family: Open Sans;
     display: flex;
@@ -184,18 +184,18 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-#body__title:hover {
+#pipirka__title:hover {
     color: ffba00;
 }
 
 
 
-.bodyniz {
+.gavpirka {
     display: flex;
     justify-content:center;
     padding-bottom: 10px;
     width: 100%;
-    height: 50vh;
+    height: 75vh;
     background: url("../img/16.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
@@ -203,7 +203,7 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-#bodyniz__title {
+#gavpirka__title {
     color: #ffba00;
     font-family: Open Sans;
     font-size: 60px;
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: auto;
 }
 
-.button {
+.baton {
     background-color:ffba00;
     font-size:30px;
      border: none;
@@ -233,12 +233,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-#bodyniz__title:hover {
+#gavpirka__title:hover {
     color: ffba00;
     
 }
 
-.bodynizzz {
+.gavpirka22 {
     display: flex;
     justify-content:center;
     padding-top: 100px;
@@ -252,7 +252,7 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-#bodynizzz__title {
+#gavpirka22__title {
     color: #ffba00;
     font-family: Open Sans;
     display: flex;
@@ -260,11 +260,11 @@ h1, h2, h3, h4, h5, h6 {
     transition: color .2s linear;
      outline:0 none;
      justify-content:center;
-    padding-bottom: 1150px;
+    padding-bottom: 1100px;
 
 }
 
-#bodynizzz__title:hover {
+#gavpirka22__title:hover {
     color: ffba00;
 }
 
