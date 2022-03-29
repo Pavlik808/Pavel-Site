@@ -13,35 +13,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .jopa {
     width: 100%;
-    max-width: 1900px;
     margin: 0 auto;
     font-size: 70px;
     color: #fff;
     font-family: Norwester;
-    position: absolute;
-    right: 0;
-    left: 0;
-    top: 0;
-    padding-top: 23px;
     
 }
 
 
 
-/* Intro */
-.peniz {
-    width: 100%;
-    height: 50vh;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    background: url("../img/12.jpg") center no-repeat;
-    -webkit-background-size: cover;
-    background-size: cover;
-    font-family: Open Sans;
-    
-    
-}
+
 
 .jopa_4 {
     width: 100%;
@@ -57,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
         justify-content:center;
         text-align: center;
         color: white;
-         word-spacing: 9999px;
+        word-spacing: 9999px;
         
         
 }   
@@ -78,19 +59,31 @@ h1, h2, h3, h4, h5, h6 {
 
 .jopa__5 {
     
-    font-size: 47px;
-    line-height: 1.5;
+    font-size: 55px;
+    text-align: center;
     color: #fff;
-    font-family: barlow;
+    font-family: Dela Gothic One;
+    margin: auto;
+    
+}
+
+.jopa__6 {
+    width: 1200px;
+    height: 80px;
+    background: url("../img/18.jpg") center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
 }
 
 .nav {
-    font-size: 30px;
-    line-height: 1.5;
+    font-size: 35px;
+    margin: auto;
     color: #fff;
     font-family: Open Sans;
-    max-width: 1000px;
- 
+    max-width: 1200px;
+    text-align: center;
     
 }
 
@@ -99,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
         
     transition: color .2s linear;
-    margin: auto 35px;
+    margin: auto 15px;
     
 }
 
@@ -107,7 +100,19 @@ h1, h2, h3, h4, h5, h6 {
     color: #ffba00;
 }
 
-
+.peniz {
+    width: 100%;
+    height: 50vh;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background: url("../img/19.jpg") center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    font-family: Open Sans;
+    
+    
+}
 .popiz {
     display: flex;
      justify-content: space-between;
@@ -209,7 +214,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 60px;
     transition: color .2s linear;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
     margin: auto;
    
 }
@@ -239,12 +244,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .gavpirka22 {
-    display: flex;
-    justify-content:center;
-    padding-top: 100px;
     width: 100%;
     height: 50vh;
-    flex-direction: column;
     background: url("../img/16.jpg") center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
@@ -255,12 +256,11 @@ h1, h2, h3, h4, h5, h6 {
 #gavpirka22__title {
     color: #ffba00;
     font-family: Open Sans;
-    display: flex;
     font-size: 60px;
     transition: color .2s linear;
-     outline:0 none;
-     justify-content:center;
-    padding-bottom: 1100px;
+    text-align: center;
+    margin: auto;
+    
 
 }
 
@@ -268,5 +268,47 @@ h1, h2, h3, h4, h5, h6 {
     color: ffba00;
 }
 
+.popapav {
+    color: #fff;
+    font-family: Open Sans;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+    
+}
 
+.baton228 {
+    background-color:ffba00;
+    font-size:30px;
+    border: none;
+    margin: auto;
+    font-family: Open Sans;
+
+}
+.pasua {
+    width: 100%;
+    height: 60vh;
+    background: url("../img/16.jpg") center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin: auto;
+    
+}
+
+#pasua__title {
+    color: #ffba00;
+    font-family: Open Sans;
+    font-size: 60px;
+    padding-bottom: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.pavel22 {
+    color:#fff;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    
+}
 
